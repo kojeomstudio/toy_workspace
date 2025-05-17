@@ -99,5 +99,4 @@ project.lock.json
 .test_venv
 .my_py_venv
 *.xlsx
-*.pdf
 *.txt
