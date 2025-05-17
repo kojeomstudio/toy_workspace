@@ -96,6 +96,7 @@ packages/
 # 프로젝트 잠금 파일
 project.lock.json
 /lecture
+.test_venv
 .my_py_venv
 *.xlsx
 *.pdf
